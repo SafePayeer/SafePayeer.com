@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SafePayeer.org/static/css/main.3c6bd0c7.css",
+    "main.js": "/SafePayeer.org/static/js/main.010f2ed0.js",
+    "static/js/787.bf638345.chunk.js": "/SafePayeer.org/static/js/787.bf638345.chunk.js",
+    "static/media/high-payment.png": "/SafePayeer.org/static/media/high-payment.f92a67413e62a4fbe6ff.png",
+    "static/media/man-money-7781131.jpg": "/SafePayeer.org/static/media/man-money-7781131.32ed8ef0372456811dea.jpg",
+    "static/media/logo2.jpg": "/SafePayeer.org/static/media/logo2.86d1d6729469e7ce3e4d.jpg",
+    "static/media/header.jpg": "/SafePayeer.org/static/media/header.69ec08b0d5016ef62233.jpg",
+    "static/media/data-entry1.png": "/SafePayeer.org/static/media/data-entry1.40347f642723db2748a4.png",
+    "static/media/high-quality.png": "/SafePayeer.org/static/media/high-quality.9c4943803be69a97df18.png",
+    "static/media/telgram4.png": "/SafePayeer.org/static/media/telgram4.6c70326b788909e9f562.png",
+    "static/media/grow-with-us.png": "/SafePayeer.org/static/media/grow-with-us.131d85be554bbd6c8117.png",
+    "static/media/topnz-top.mp4": "/SafePayeer.org/static/media/topnz-top.1450aed31ed4e31fe3c0.mp4",
+    "index.html": "/SafePayeer.org/index.html",
+    "main.3c6bd0c7.css.map": "/SafePayeer.org/static/css/main.3c6bd0c7.css.map",
+    "main.010f2ed0.js.map": "/SafePayeer.org/static/js/main.010f2ed0.js.map",
+    "787.bf638345.chunk.js.map": "/SafePayeer.org/static/js/787.bf638345.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c6bd0c7.css",
+    "static/js/main.010f2ed0.js"
+  ]
+}
